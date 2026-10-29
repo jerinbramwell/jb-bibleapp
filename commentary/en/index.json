@@ -9,7 +9,7 @@
    "chapters": 50,
    "sections": 195,
    "file": "gen.json",
-   "bytes": 247459
+   "bytes": 248209
   },
   {
    "bookId": "exo",
@@ -17,7 +17,7 @@
    "chapters": 40,
    "sections": 130,
    "file": "exo.json",
-   "bytes": 152715
+   "bytes": 153259
   },
   {
    "bookId": "lev",
@@ -25,7 +25,7 @@
    "chapters": 27,
    "sections": 69,
    "file": "lev.json",
-   "bytes": 72802
+   "bytes": 72930
   },
   {
    "bookId": "num",
@@ -33,7 +33,7 @@
    "chapters": 36,
    "sections": 111,
    "file": "num.json",
-   "bytes": 116903
+   "bytes": 117245
   },
   {
    "bookId": "deu",
@@ -41,7 +41,7 @@
    "chapters": 34,
    "sections": 108,
    "file": "deu.json",
-   "bytes": 107478
+   "bytes": 107834
   },
   {
    "bookId": "jos",
@@ -49,7 +49,7 @@
    "chapters": 24,
    "sections": 71,
    "file": "jos.json",
-   "bytes": 64834
+   "bytes": 64973
   },
   {
    "bookId": "jdg",
@@ -57,7 +57,7 @@
    "chapters": 21,
    "sections": 66,
    "file": "jdg.json",
-   "bytes": 60545
+   "bytes": 60703
   },
   {
    "bookId": "rut",
@@ -65,7 +65,7 @@
    "chapters": 4,
    "sections": 13,
    "file": "rut.json",
-   "bytes": 14094
+   "bytes": 14143
   },
   {
    "bookId": "1sa",
@@ -73,7 +73,7 @@
    "chapters": 31,
    "sections": 99,
    "file": "1sa.json",
-   "bytes": 86638
+   "bytes": 88742
   },
   {
    "bookId": "2sa",
@@ -81,7 +81,7 @@
    "chapters": 24,
    "sections": 77,
    "file": "2sa.json",
-   "bytes": 58710
+   "bytes": 58961
   },
   {
    "bookId": "1ki",
@@ -89,7 +89,7 @@
    "chapters": 22,
    "sections": 76,
    "file": "1ki.json",
-   "bytes": 70105
+   "bytes": 70273
   },
   {
    "bookId": "2ki",
@@ -97,7 +97,7 @@
    "chapters": 25,
    "sections": 80,
    "file": "2ki.json",
-   "bytes": 73914
+   "bytes": 73906
   },
   {
    "bookId": "1ch",
@@ -105,7 +105,7 @@
    "chapters": 29,
    "sections": 44,
    "file": "1ch.json",
-   "bytes": 32037
+   "bytes": 32600
   },
   {
    "bookId": "2ch",
@@ -113,7 +113,7 @@
    "chapters": 36,
    "sections": 54,
    "file": "2ch.json",
-   "bytes": 52863
+   "bytes": 53090
   },
   {
    "bookId": "ezr",
@@ -121,7 +121,7 @@
    "chapters": 10,
    "sections": 25,
    "file": "ezr.json",
-   "bytes": 19385
+   "bytes": 19440
   },
   {
    "bookId": "neh",
@@ -129,7 +129,7 @@
    "chapters": 13,
    "sections": 31,
    "file": "neh.json",
-   "bytes": 28500
+   "bytes": 28539
   },
   {
    "bookId": "est",
@@ -137,7 +137,7 @@
    "chapters": 10,
    "sections": 21,
    "file": "est.json",
-   "bytes": 21372
+   "bytes": 21406
   },
   {
    "bookId": "job",
@@ -145,7 +145,7 @@
    "chapters": 42,
    "sections": 127,
    "file": "job.json",
-   "bytes": 124182
+   "bytes": 124472
   },
   {
    "bookId": "psa",
@@ -153,7 +153,7 @@
    "chapters": 150,
    "sections": 337,
    "file": "psa.json",
-   "bytes": 390974
+   "bytes": 391410
   },
   {
    "bookId": "pro",
@@ -161,7 +161,7 @@
    "chapters": 31,
    "sections": 475,
    "file": "pro.json",
-   "bytes": 119194
+   "bytes": 121437
   },
   {
    "bookId": "ecc",
@@ -169,7 +169,7 @@
    "chapters": 12,
    "sections": 41,
    "file": "ecc.json",
-   "bytes": 38283
+   "bytes": 38339
   },
   {
    "bookId": "sng",
@@ -177,7 +177,7 @@
    "chapters": 8,
    "sections": 25,
    "file": "sng.json",
-   "bytes": 30423
+   "bytes": 31858
   },
   {
    "bookId": "isa",
@@ -185,7 +185,7 @@
    "chapters": 66,
    "sections": 175,
    "file": "isa.json",
-   "bytes": 202121
+   "bytes": 202458
   },
   {
    "bookId": "jer",
@@ -193,7 +193,7 @@
    "chapters": 52,
    "sections": 148,
    "file": "jer.json",
-   "bytes": 124501
+   "bytes": 125341
   },
   {
    "bookId": "lam",
@@ -209,7 +209,7 @@
    "chapters": 48,
    "sections": 105,
    "file": "ezk.json",
-   "bytes": 81523
+   "bytes": 81785
   },
   {
    "bookId": "dan",
@@ -217,7 +217,7 @@
    "chapters": 12,
    "sections": 37,
    "file": "dan.json",
-   "bytes": 41958
+   "bytes": 41930
   },
   {
    "bookId": "hos",
@@ -225,7 +225,7 @@
    "chapters": 14,
    "sections": 33,
    "file": "hos.json",
-   "bytes": 37240
+   "bytes": 37320
   },
   {
    "bookId": "jol",
@@ -257,7 +257,7 @@
    "chapters": 4,
    "sections": 10,
    "file": "jon.json",
-   "bytes": 14938
+   "bytes": 14937
   },
   {
    "bookId": "mic",
@@ -273,7 +273,7 @@
    "chapters": 3,
    "sections": 6,
    "file": "nah.json",
-   "bytes": 5767
+   "bytes": 5772
   },
   {
    "bookId": "hab",
@@ -305,7 +305,7 @@
    "chapters": 14,
    "sections": 34,
    "file": "zec.json",
-   "bytes": 45747
+   "bytes": 45811
   },
   {
    "bookId": "mal",
@@ -321,7 +321,7 @@
    "chapters": 28,
    "sections": 144,
    "file": "mat.json",
-   "bytes": 201100
+   "bytes": 201291
   },
   {
    "bookId": "mar",
@@ -329,7 +329,7 @@
    "chapters": 16,
    "sections": 76,
    "file": "mar.json",
-   "bytes": 72474
+   "bytes": 72483
   },
   {
    "bookId": "luk",
@@ -337,7 +337,7 @@
    "chapters": 24,
    "sections": 118,
    "file": "luk.json",
-   "bytes": 129094
+   "bytes": 129328
   },
   {
    "bookId": "joh",
@@ -345,7 +345,7 @@
    "chapters": 21,
    "sections": 116,
    "file": "joh.json",
-   "bytes": 138015
+   "bytes": 138245
   },
   {
    "bookId": "act",
@@ -353,7 +353,7 @@
    "chapters": 28,
    "sections": 119,
    "file": "act.json",
-   "bytes": 151952
+   "bytes": 152007
   },
   {
    "bookId": "rom",
@@ -361,7 +361,7 @@
    "chapters": 16,
    "sections": 70,
    "file": "rom.json",
-   "bytes": 99866
+   "bytes": 99964
   },
   {
    "bookId": "1co",
@@ -369,7 +369,7 @@
    "chapters": 16,
    "sections": 58,
    "file": "1co.json",
-   "bytes": 76550
+   "bytes": 76685
   },
   {
    "bookId": "2co",
@@ -377,7 +377,7 @@
    "chapters": 13,
    "sections": 38,
    "file": "2co.json",
-   "bytes": 44953
+   "bytes": 44958
   },
   {
    "bookId": "gal",
@@ -385,7 +385,7 @@
    "chapters": 6,
    "sections": 28,
    "file": "gal.json",
-   "bytes": 39806
+   "bytes": 39818
   },
   {
    "bookId": "eph",
@@ -401,7 +401,7 @@
    "chapters": 4,
    "sections": 15,
    "file": "php.json",
-   "bytes": 21777
+   "bytes": 21779
   },
   {
    "bookId": "col",
@@ -441,7 +441,7 @@
    "chapters": 4,
    "sections": 15,
    "file": "2ti.json",
-   "bytes": 17010
+   "bytes": 17060
   },
   {
    "bookId": "tit",
@@ -465,7 +465,7 @@
    "chapters": 13,
    "sections": 45,
    "file": "heb.json",
-   "bytes": 72076
+   "bytes": 72081
   },
   {
    "bookId": "jas",
@@ -481,7 +481,7 @@
    "chapters": 5,
    "sections": 17,
    "file": "1pe.json",
-   "bytes": 28663
+   "bytes": 28675
   },
   {
    "bookId": "2pe",
@@ -489,7 +489,7 @@
    "chapters": 3,
    "sections": 9,
    "file": "2pe.json",
-   "bytes": 16437
+   "bytes": 16445
   },
   {
    "bookId": "1jn",
@@ -497,7 +497,7 @@
    "chapters": 5,
    "sections": 21,
    "file": "1jn.json",
-   "bytes": 33695
+   "bytes": 33694
   },
   {
    "bookId": "2jn",
@@ -521,7 +521,7 @@
    "chapters": 1,
    "sections": 5,
    "file": "jud.json",
-   "bytes": 10353
+   "bytes": 10352
   },
   {
    "bookId": "rev",
@@ -529,7 +529,7 @@
    "chapters": 22,
    "sections": 62,
    "file": "rev.json",
-   "bytes": 98015
+   "bytes": 98063
   }
  ]
 }
