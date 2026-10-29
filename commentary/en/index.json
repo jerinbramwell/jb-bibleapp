@@ -1,0 +1,535 @@
+{
+ "source": "Matthew Henry's Concise Commentary on the Whole Bible (1706), public domain",
+ "language": "en",
+ "generated": "2026-10-29",
+ "books": [
+  {
+   "bookId": "gen",
+   "nameEn": "Genesis",
+   "chapters": 50,
+   "sections": 195,
+   "file": "gen.json",
+   "bytes": 247459
+  },
+  {
+   "bookId": "exo",
+   "nameEn": "Exodus",
+   "chapters": 40,
+   "sections": 130,
+   "file": "exo.json",
+   "bytes": 152715
+  },
+  {
+   "bookId": "lev",
+   "nameEn": "Leviticus",
+   "chapters": 27,
+   "sections": 69,
+   "file": "lev.json",
+   "bytes": 72802
+  },
+  {
+   "bookId": "num",
+   "nameEn": "Numbers",
+   "chapters": 36,
+   "sections": 111,
+   "file": "num.json",
+   "bytes": 116903
+  },
+  {
+   "bookId": "deu",
+   "nameEn": "Deuteronomy",
+   "chapters": 34,
+   "sections": 108,
+   "file": "deu.json",
+   "bytes": 107477
+  },
+  {
+   "bookId": "jos",
+   "nameEn": "Joshua",
+   "chapters": 24,
+   "sections": 71,
+   "file": "jos.json",
+   "bytes": 64834
+  },
+  {
+   "bookId": "jdg",
+   "nameEn": "Judges",
+   "chapters": 21,
+   "sections": 66,
+   "file": "jdg.json",
+   "bytes": 60545
+  },
+  {
+   "bookId": "rut",
+   "nameEn": "Ruth",
+   "chapters": 4,
+   "sections": 13,
+   "file": "rut.json",
+   "bytes": 14094
+  },
+  {
+   "bookId": "1sa",
+   "nameEn": "1 Samuel",
+   "chapters": 31,
+   "sections": 99,
+   "file": "1sa.json",
+   "bytes": 86638
+  },
+  {
+   "bookId": "2sa",
+   "nameEn": "2 Samuel",
+   "chapters": 24,
+   "sections": 77,
+   "file": "2sa.json",
+   "bytes": 58710
+  },
+  {
+   "bookId": "1ki",
+   "nameEn": "1 Kings",
+   "chapters": 22,
+   "sections": 76,
+   "file": "1ki.json",
+   "bytes": 70105
+  },
+  {
+   "bookId": "2ki",
+   "nameEn": "2 Kings",
+   "chapters": 25,
+   "sections": 80,
+   "file": "2ki.json",
+   "bytes": 73914
+  },
+  {
+   "bookId": "1ch",
+   "nameEn": "1 Chronicles",
+   "chapters": 29,
+   "sections": 44,
+   "file": "1ch.json",
+   "bytes": 32037
+  },
+  {
+   "bookId": "2ch",
+   "nameEn": "2 Chronicles",
+   "chapters": 36,
+   "sections": 54,
+   "file": "2ch.json",
+   "bytes": 52863
+  },
+  {
+   "bookId": "ezr",
+   "nameEn": "Ezra",
+   "chapters": 10,
+   "sections": 25,
+   "file": "ezr.json",
+   "bytes": 19385
+  },
+  {
+   "bookId": "neh",
+   "nameEn": "Nehemiah",
+   "chapters": 13,
+   "sections": 31,
+   "file": "neh.json",
+   "bytes": 28500
+  },
+  {
+   "bookId": "est",
+   "nameEn": "Esther",
+   "chapters": 10,
+   "sections": 21,
+   "file": "est.json",
+   "bytes": 21372
+  },
+  {
+   "bookId": "job",
+   "nameEn": "Job",
+   "chapters": 42,
+   "sections": 127,
+   "file": "job.json",
+   "bytes": 124182
+  },
+  {
+   "bookId": "psa",
+   "nameEn": "Psalms",
+   "chapters": 150,
+   "sections": 337,
+   "file": "psa.json",
+   "bytes": 390974
+  },
+  {
+   "bookId": "pro",
+   "nameEn": "Proverbs",
+   "chapters": 31,
+   "sections": 55,
+   "file": "pro.json",
+   "bytes": 106285
+  },
+  {
+   "bookId": "ecc",
+   "nameEn": "Ecclesiastes",
+   "chapters": 12,
+   "sections": 41,
+   "file": "ecc.json",
+   "bytes": 38283
+  },
+  {
+   "bookId": "sng",
+   "nameEn": "Song of Solomon",
+   "chapters": 8,
+   "sections": 25,
+   "file": "sng.json",
+   "bytes": 30423
+  },
+  {
+   "bookId": "isa",
+   "nameEn": "Isaiah",
+   "chapters": 66,
+   "sections": 175,
+   "file": "isa.json",
+   "bytes": 202121
+  },
+  {
+   "bookId": "jer",
+   "nameEn": "Jeremiah",
+   "chapters": 52,
+   "sections": 148,
+   "file": "jer.json",
+   "bytes": 124501
+  },
+  {
+   "bookId": "lam",
+   "nameEn": "Lamentations",
+   "chapters": 5,
+   "sections": 14,
+   "file": "lam.json",
+   "bytes": 11706
+  },
+  {
+   "bookId": "ezk",
+   "nameEn": "Ezekiel",
+   "chapters": 48,
+   "sections": 105,
+   "file": "ezk.json",
+   "bytes": 81523
+  },
+  {
+   "bookId": "dan",
+   "nameEn": "Daniel",
+   "chapters": 12,
+   "sections": 37,
+   "file": "dan.json",
+   "bytes": 41958
+  },
+  {
+   "bookId": "hos",
+   "nameEn": "Hosea",
+   "chapters": 14,
+   "sections": 33,
+   "file": "hos.json",
+   "bytes": 37240
+  },
+  {
+   "bookId": "jol",
+   "nameEn": "Joel",
+   "chapters": 3,
+   "sections": 9,
+   "file": "jol.json",
+   "bytes": 7985
+  },
+  {
+   "bookId": "amo",
+   "nameEn": "Amos",
+   "chapters": 9,
+   "sections": 19,
+   "file": "amo.json",
+   "bytes": 19029
+  },
+  {
+   "bookId": "oba",
+   "nameEn": "Obadiah",
+   "chapters": 1,
+   "sections": 2,
+   "file": "oba.json",
+   "bytes": 3485
+  },
+  {
+   "bookId": "jon",
+   "nameEn": "Jonah",
+   "chapters": 4,
+   "sections": 10,
+   "file": "jon.json",
+   "bytes": 14938
+  },
+  {
+   "bookId": "mic",
+   "nameEn": "Micah",
+   "chapters": 7,
+   "sections": 17,
+   "file": "mic.json",
+   "bytes": 18165
+  },
+  {
+   "bookId": "nah",
+   "nameEn": "Nahum",
+   "chapters": 3,
+   "sections": 6,
+   "file": "nah.json",
+   "bytes": 5767
+  },
+  {
+   "bookId": "hab",
+   "nameEn": "Habakkuk",
+   "chapters": 3,
+   "sections": 8,
+   "file": "hab.json",
+   "bytes": 11181
+  },
+  {
+   "bookId": "zep",
+   "nameEn": "Zephaniah",
+   "chapters": 3,
+   "sections": 8,
+   "file": "zep.json",
+   "bytes": 7773
+  },
+  {
+   "bookId": "hag",
+   "nameEn": "Haggai",
+   "chapters": 2,
+   "sections": 5,
+   "file": "hag.json",
+   "bytes": 8153
+  },
+  {
+   "bookId": "zec",
+   "nameEn": "Zechariah",
+   "chapters": 14,
+   "sections": 34,
+   "file": "zec.json",
+   "bytes": 45747
+  },
+  {
+   "bookId": "mal",
+   "nameEn": "Malachi",
+   "chapters": 4,
+   "sections": 9,
+   "file": "mal.json",
+   "bytes": 14469
+  },
+  {
+   "bookId": "mat",
+   "nameEn": "Matthew",
+   "chapters": 28,
+   "sections": 142,
+   "file": "mat.json",
+   "bytes": 201018
+  },
+  {
+   "bookId": "mar",
+   "nameEn": "Mark",
+   "chapters": 16,
+   "sections": 76,
+   "file": "mar.json",
+   "bytes": 72474
+  },
+  {
+   "bookId": "luk",
+   "nameEn": "Luke",
+   "chapters": 24,
+   "sections": 118,
+   "file": "luk.json",
+   "bytes": 129094
+  },
+  {
+   "bookId": "joh",
+   "nameEn": "John",
+   "chapters": 21,
+   "sections": 115,
+   "file": "joh.json",
+   "bytes": 137973
+  },
+  {
+   "bookId": "act",
+   "nameEn": "Acts",
+   "chapters": 28,
+   "sections": 119,
+   "file": "act.json",
+   "bytes": 151952
+  },
+  {
+   "bookId": "rom",
+   "nameEn": "Romans",
+   "chapters": 16,
+   "sections": 70,
+   "file": "rom.json",
+   "bytes": 99866
+  },
+  {
+   "bookId": "1co",
+   "nameEn": "1 Corinthians",
+   "chapters": 16,
+   "sections": 58,
+   "file": "1co.json",
+   "bytes": 76550
+  },
+  {
+   "bookId": "2co",
+   "nameEn": "2 Corinthians",
+   "chapters": 13,
+   "sections": 38,
+   "file": "2co.json",
+   "bytes": 44953
+  },
+  {
+   "bookId": "gal",
+   "nameEn": "Galatians",
+   "chapters": 6,
+   "sections": 28,
+   "file": "gal.json",
+   "bytes": 39806
+  },
+  {
+   "bookId": "eph",
+   "nameEn": "Ephesians",
+   "chapters": 6,
+   "sections": 25,
+   "file": "eph.json",
+   "bytes": 34368
+  },
+  {
+   "bookId": "php",
+   "nameEn": "Philippians",
+   "chapters": 4,
+   "sections": 15,
+   "file": "php.json",
+   "bytes": 21777
+  },
+  {
+   "bookId": "col",
+   "nameEn": "Colossians",
+   "chapters": 4,
+   "sections": 15,
+   "file": "col.json",
+   "bytes": 20352
+  },
+  {
+   "bookId": "1th",
+   "nameEn": "1 Thessalonians",
+   "chapters": 5,
+   "sections": 17,
+   "file": "1th.json",
+   "bytes": 19120
+  },
+  {
+   "bookId": "2th",
+   "nameEn": "2 Thessalonians",
+   "chapters": 3,
+   "sections": 10,
+   "file": "2th.json",
+   "bytes": 15275
+  },
+  {
+   "bookId": "1ti",
+   "nameEn": "1 Timothy",
+   "chapters": 6,
+   "sections": 20,
+   "file": "1ti.json",
+   "bytes": 20957
+  },
+  {
+   "bookId": "2ti",
+   "nameEn": "2 Timothy",
+   "chapters": 4,
+   "sections": 15,
+   "file": "2ti.json",
+   "bytes": 17010
+  },
+  {
+   "bookId": "tit",
+   "nameEn": "Titus",
+   "chapters": 3,
+   "sections": 9,
+   "file": "tit.json",
+   "bytes": 12649
+  },
+  {
+   "bookId": "phm",
+   "nameEn": "Philemon",
+   "chapters": 1,
+   "sections": 4,
+   "file": "phm.json",
+   "bytes": 6029
+  },
+  {
+   "bookId": "heb",
+   "nameEn": "Hebrews",
+   "chapters": 13,
+   "sections": 45,
+   "file": "heb.json",
+   "bytes": 72076
+  },
+  {
+   "bookId": "jas",
+   "nameEn": "James",
+   "chapters": 5,
+   "sections": 15,
+   "file": "jas.json",
+   "bytes": 28623
+  },
+  {
+   "bookId": "1pe",
+   "nameEn": "1 Peter",
+   "chapters": 5,
+   "sections": 17,
+   "file": "1pe.json",
+   "bytes": 28663
+  },
+  {
+   "bookId": "2pe",
+   "nameEn": "2 Peter",
+   "chapters": 3,
+   "sections": 9,
+   "file": "2pe.json",
+   "bytes": 16437
+  },
+  {
+   "bookId": "1jn",
+   "nameEn": "1 John",
+   "chapters": 5,
+   "sections": 21,
+   "file": "1jn.json",
+   "bytes": 33695
+  },
+  {
+   "bookId": "2jn",
+   "nameEn": "2 John",
+   "chapters": 1,
+   "sections": 4,
+   "file": "2jn.json",
+   "bytes": 4481
+  },
+  {
+   "bookId": "3jn",
+   "nameEn": "3 John",
+   "chapters": 1,
+   "sections": 3,
+   "file": "3jn.json",
+   "bytes": 4117
+  },
+  {
+   "bookId": "jud",
+   "nameEn": "Jude",
+   "chapters": 1,
+   "sections": 5,
+   "file": "jud.json",
+   "bytes": 10353
+  },
+  {
+   "bookId": "rev",
+   "nameEn": "Revelation",
+   "chapters": 22,
+   "sections": 62,
+   "file": "rev.json",
+   "bytes": 98015
+  }
+ ]
+}
