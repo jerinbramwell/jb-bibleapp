@@ -41,7 +41,7 @@
    "chapters": 34,
    "sections": 108,
    "file": "deu.json",
-   "bytes": 107477
+   "bytes": 107478
   },
   {
    "bookId": "jos",
@@ -159,9 +159,9 @@
    "bookId": "pro",
    "nameEn": "Proverbs",
    "chapters": 31,
-   "sections": 55,
+   "sections": 475,
    "file": "pro.json",
-   "bytes": 106285
+   "bytes": 119194
   },
   {
    "bookId": "ecc",
@@ -319,9 +319,9 @@
    "bookId": "mat",
    "nameEn": "Matthew",
    "chapters": 28,
-   "sections": 142,
+   "sections": 144,
    "file": "mat.json",
-   "bytes": 201018
+   "bytes": 201100
   },
   {
    "bookId": "mar",
@@ -343,9 +343,9 @@
    "bookId": "joh",
    "nameEn": "John",
    "chapters": 21,
-   "sections": 115,
+   "sections": 116,
    "file": "joh.json",
-   "bytes": 137973
+   "bytes": 138015
   },
   {
    "bookId": "act",

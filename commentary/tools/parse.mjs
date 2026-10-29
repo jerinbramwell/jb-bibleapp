@@ -40,7 +40,16 @@ for (const [id, nameEn, count] of books) {
     if (!new RegExp(`Chapter&nbsp;${ch}\\s*<|name="[a-z0-9]+${ch}"`, 'i').test(region)) problems.push(`${id} ${ch}: chapter number not confirmed in page`);
 
     // Paragraphs: <p><b>book intro</b>, <p><i>outline</i>, then the notes
-    const rawParas = region.split(/<p(?:\s[^>]*)?>/).slice(1);
+    // Section heading links can also appear mid-paragraph (e.g. Proverbs: "... <a>Verse 4</a> . Those who ...");
+    // start a new paragraph at each one so every heading begins its own section
+    // ...but only where the preceding text ends a sentence; "In verse <a>Verse 32</a>, ..." is a mention, not a heading
+    const rawParas = region
+      .replace(/(<a\s[^>]*>\s*Verses?\s+\d+(?:\s*[-–]\s*\d+)?\s*<\/a>)/g, (link, _l, offset, all) => {
+        const before = text(all.slice(Math.max(0, offset - 300), offset));
+        const isHeading = !before || /[.?!)"”’]$/.test(before) && !/\b(ver|verse|verses|see|in)\.?$/i.test(before);
+        return isHeading ? '<p>' + link : link;
+      })
+      .split(/<p(?:\s[^>]*)?>/).slice(1);
     let outline = '';
     const paras = [];
     for (const raw of rawParas) {
@@ -66,7 +75,7 @@ for (const [id, nameEn, count] of books) {
     for (let p of paras) {
       let m = p.match(LINK_HEAD);
       let head = null;
-      if (m) { head = [+m[1], m[2] ? +m[2] : +m[1]]; p = p.slice(m[0].length).trim(); }
+      if (m) { head = [+m[1], m[2] ? +m[2] : +m[1]]; p = p.slice(m[0].length).replace(/^[.,;:\s]+/, '').trim(); }
       else if ((m = p.match(new RegExp(`^((?:[1-3]?\\s?[a-z]+(?:\\s[a-z]+)*\\s${ch}:\\d+\\s*)+)\\.\\s+`, 'i')))) {
         // heading written as verse links, e.g. "ephesians 1:1 ephesians 1:2 . text"
         const vs = [...m[1].matchAll(new RegExp(`\\s${ch}:(\\d+)`, 'g'))].map(x => +x[1]);
