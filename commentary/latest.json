@@ -1,9 +1,10 @@
 {
- "version": "v5",
+ "version": "v6",
  "ml": [
   "mat",
   "mar",
   "luk",
-  "joh"
+  "joh",
+  "rev"
  ]
 }
